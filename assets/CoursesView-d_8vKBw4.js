@@ -1,0 +1,1 @@
+import{_ as e,c as s,o,a as t}from"./index-7OO8fCO-.js";const c={},a={class:"container bg-gray shadow-sm"},n=t("h1",{class:"text-linear display-1"},"課程列表",-1),r=[n];function _(i,d){return o(),s("div",a,r)}const f=e(c,[["render",_]]);export{f as default};
